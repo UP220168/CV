@@ -320,11 +320,7 @@ h3 {
   background: #f7f7f7;
   border-radius: 8px;
   padding: 0.7rem 1rem;
-  box-shadow: 0 1px 4px rgba(0,0,0,0.04);
   font-weight: 500;
-}
-.skills-grid svg {
-  flex-shrink: 0;
 }
 
 .righthSide {
@@ -338,7 +334,6 @@ h3 {
   width: 200px;
   height: 200px;
   border-radius: 25%;
-  margin-bottom: 1.5rem;
   background-image: url(../img/pfPic.jpg);
   background-size: cover;
   background-position: center;    
